@@ -28,8 +28,4 @@ public class PromptGenerator
         int index = rnd.Next(_prompts.Count);
         return _prompts[index];
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> ad99efa6f8e411b08149ee4c2762427bc2df0ca3
