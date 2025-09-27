@@ -6,7 +6,7 @@ class Program
     static void Main(string[] args)
     {
         Random randomGenerator = new Random();
-        int magicNumber = randomGenerator.Next(1, 101); 
+        int magicNumber = randomGenerator.Next(1, 101);
 
         int guess = -1;
         int attempts = 0;
@@ -37,7 +37,8 @@ class Program
         if (playAgain == "y")
         {
             Main(args);
-        }        else
+        }
+        else
         {
             Console.WriteLine("Thanks for playing!");
         }

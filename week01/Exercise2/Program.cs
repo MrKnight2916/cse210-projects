@@ -70,7 +70,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Sorry, you did not pass. Better luck next time!"); 
+            Console.WriteLine("Sorry, you did not pass. Better luck next time!");
         }
     }
 }
