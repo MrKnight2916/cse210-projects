@@ -9,7 +9,7 @@ class Program
         job1._company = "Microsoft";
         job1._startYear = 2019;
         job1._endYear = 2022;
-        
+
         Job job2 = new Job();
         job2._jobTitle = "Senior Software Engineer";
         job2._company = "Google";
