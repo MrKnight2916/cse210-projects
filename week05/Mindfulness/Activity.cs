@@ -52,7 +52,7 @@ public class Activity
         }
     }
 
-    // Método virtual que será sobrescrito por cada actividad
+    // Virtual method that will be overridden by each activity
     public virtual void Run()
     {
         Console.WriteLine("Running the base activity...");
