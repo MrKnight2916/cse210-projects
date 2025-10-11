@@ -1,0 +1,4 @@
+0
+SimpleGoal:Lose Weight,SimpleGoal,200,False
+EternalGoal:yeah,yes,100
+ChecklistGoal:Study Scriptures,ChecklistGoal,20,0,5,10,False
